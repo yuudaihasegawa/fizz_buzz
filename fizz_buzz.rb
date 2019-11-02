@@ -12,6 +12,8 @@ def fizz_buzz(number)
    end
 end
 
+
+puts "FizzBuzz！！"
 puts "1 以上の数字を入力してください"
 
 input = gets.to_i
